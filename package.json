@@ -1,0 +1,21 @@
+{
+  "name": "code-with-shahzaib-todolist-application",
+  "version": "2.0.0",
+  "description": "",
+  "main": "zaib.js",
+  "type": "module",
+  "bin": "zaib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
